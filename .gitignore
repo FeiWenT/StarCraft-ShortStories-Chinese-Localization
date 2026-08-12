@@ -1,0 +1,25 @@
+# === 内容保护: 绝不入库 ===
+sources/                # 英文原文 (12 篇, 版权材料)
+extracted/              # OCR 抽出的 zhTW 文本 (24 个)
+drafts/                 # 工作区 (split/llm_drafts/final/cache)
+audits/llm_call_log/    # LLM 完整 prompt/response
+audits/run_log/         # 脚本运行日志 (含本机绝对路径)
+audits/zhTW_raw/        # OCR 临时输出
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# === 缓存与临时 ===
+_mt_cache.json
+*.bak
+*.tmp
+sources.sha256          # 本机绝对路径, GitHub 上传时不放
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,5863 @@
+{
+  "version": "v2",
+  "source": "Nova/Spectres 680 + zhTW 23 篇官方 + 12 篇新译 (Stage 1-2, 2026-08-12)",
+  "total": 653,
+  "categories": [
+    "作品",
+    "单位",
+    "建筑",
+    "种族与物种",
+    "角色",
+    "阵营与组织"
+  ],
+  "entries": [
+    {
+      "en": "Koprulu Sector",
+      "zh": "科普卢星区",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mar Sara",
+      "zh": "玛·萨拉",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tarsonis",
+      "zh": "塔尔索尼斯",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tosh",
+      "zh": "托许",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "zergling",
+      "zh": "跳虫",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "A War On",
+      "zh": "战争上演",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Acid Burns",
+      "zh": "酸液灼烧",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ascension",
+      "zh": "升格",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Broken Wide",
+      "zh": "天崩地裂",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Brood War",
+      "zh": "母巢之战",
+      "category": "作品",
+      "subcategory": "游戏",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Changeling",
+      "zh": "拟态雏虫",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Children of the Void",
+      "zh": "虚空之子",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Cold Symmetry",
+      "zh": "冰冷对称",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Collateral Damage",
+      "zh": "间接伤害",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Colossus",
+      "zh": "巨像",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Command Performance",
+      "zh": "梦寐以求的剧本",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Devils' Due",
+      "zh": "恶魔契约",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Flashpoint",
+      "zh": "闪点时刻",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Frenzy",
+      "zh": "狂暴",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ghost",
+      "zh": "幽灵",
+      "category": "作品",
+      "subcategory": "游戏",
+      "risk": "high",
+      "priority": "wiki"
+    },
+    {
+      "en": "Great One",
+      "zh": "神圣的使者",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Heart of the Swarm",
+      "zh": "虫群之心",
+      "category": "作品",
+      "subcategory": "游戏",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Heaven's Devils",
+      "zh": "天国恶魔",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hybrid",
+      "zh": "混合体",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "I, Mengsk",
+      "zh": "我，蒙斯克",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Icehouse",
+      "zh": "冰窟",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "In the Blood",
+      "zh": "浴血之战",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "In the Dark",
+      "zh": "黑幕笼罩",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "It Will End in Fire",
+      "zh": "万籁俱焚",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Just an Overlord",
+      "zh": "不凡的王虫",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Legacy of the Void",
+      "zh": "虚空之遗",
+      "category": "作品",
+      "subcategory": "游戏",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Lens of the Void",
+      "zh": "虚空之镜",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Liberty's Crusade",
+      "zh": "利博缔的远征",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Lost Vikings",
+      "zh": "失落的维京",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Momentum",
+      "zh": "势如破竹",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mothership",
+      "zh": "母舰",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nova",
+      "zh": "诺娃",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nova Covert Ops",
+      "zh": "诺娃隐秘行动",
+      "category": "作品",
+      "subcategory": "游戏",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Perdition's Crossing",
+      "zh": "炼狱廊道",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Queen of Blades",
+      "zh": "刀锋女王",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Revelations",
+      "zh": "启示",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sector Six",
+      "zh": "第六区",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Shadow of the Xel'Naga",
+      "zh": "萨尔纳加之影",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spectres",
+      "zh": "幽魂",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "StarCraft",
+      "zh": "星际争霸",
+      "category": "作品",
+      "subcategory": "游戏",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Stealing Thunder",
+      "zh": "轰鸣",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "The Dark Templar Saga",
+      "zh": "黑暗圣堂武士传奇",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "The Education of PFC Shane",
+      "zh": "小兵希恩",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "The Exit",
+      "zh": "撤离",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "The Fightin' SceeVees",
+      "zh": "工程团的斗士",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "The Teacher",
+      "zh": "驯虫计划",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Uprising",
+      "zh": "起义",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Wings of Liberty",
+      "zh": "自由之翼",
+      "category": "作品",
+      "subcategory": "游戏",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Bravo",
+      "zh": "布拉沃",
+      "category": "其他",
+      "risk": "low",
+      "note": "军事音标字母 B",
+      "priority": "wiki"
+    },
+    {
+      "en": "hab",
+      "zh": "棚户区",
+      "category": "其他",
+      "risk": "low",
+      "note": "habitat 简写, 赛博朋克术语",
+      "priority": "wiki"
+    },
+    {
+      "en": "A.R.E.S.",
+      "zh": "武装机器人",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Aberration",
+      "zh": "畸变体",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Adept",
+      "zh": "使徒",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Aegis Guard",
+      "zh": "帝盾卫兵 / 壁垒卫士",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Aleksander",
+      "zh": "亚历山大号",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Annihilator",
+      "zh": "歼灭者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Apocalisk",
+      "zh": "末日巨兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Arbiter",
+      "zh": "仲裁者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Archangel",
+      "zh": "大天使",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Archon",
+      "zh": "执政官",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ark Shuttle",
+      "zh": "穿梭机",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Armored Personnel Carrier",
+      "zh": "装甲运兵车",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ascendant",
+      "zh": "晋升者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Assault Drone",
+      "zh": "攻击型无人机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Assault Galleon",
+      "zh": "突击炮舰",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Asteria Wraith",
+      "zh": "阿斯忒瑞亚怨灵战机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Aurana's Transport",
+      "zh": "奥罗娜的载具",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Avatar of Essence",
+      "zh": "精华化身",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Avatar of Form",
+      "zh": "形体化身",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Avenger",
+      "zh": "复仇者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Balius",
+      "zh": "巴利俄斯",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Baneling",
+      "zh": "爆虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Baneling Spawn",
+      "zh": "爆虫孵化 / 爆虫分裂体",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Banshee",
+      "zh": "女妖",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Battlecruiser",
+      "zh": "战列巡航舰",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Bio-Mechanical Repair Drone",
+      "zh": "生物机械修理无人机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Blackhammer",
+      "zh": "黑色战锤",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Blightbringer",
+      "zh": "疾疫传播体",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Blood Hunter",
+      "zh": "鲜血猎手",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Brood Lord",
+      "zh": "巢虫领主",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Brood Queen",
+      "zh": "虫巢女王",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Broodling",
+      "zh": "巢虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Broodmother",
+      "zh": "虫母",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Brutalisk",
+      "zh": "莽兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Bucephalus",
+      "zh": "布塞法洛斯号",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Bulwark Company",
+      "zh": "布瓦克连队",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Carrion",
+      "zh": "腐肉虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Centurion",
+      "zh": "百夫长",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Cerberus Mine",
+      "zh": "地狱犬地雷",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Cerebrate",
+      "zh": "脑虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Charged Crystal",
+      "zh": "充能水晶",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Choker",
+      "zh": "长舌怪 / 扼喉怪",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Colony Ship",
+      "zh": "移民飞船",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Confederate Condors",
+      "zh": "联邦神鹰 [^1]",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Conservator",
+      "zh": "保护者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Corpser",
+      "zh": "尸体虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Corruptor",
+      "zh": "腐化者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Corsair",
+      "zh": "海盗船",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Covert Banshee",
+      "zh": "隐秘女妖",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Creeper",
+      "zh": "掘地虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Creeper Host",
+      "zh": "掘地虫宿主",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Cybros Arbiter",
+      "zh": "塞布罗斯仲裁者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Cyclone",
+      "zh": "飓风",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dark Archon",
+      "zh": "黑暗执政官",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dark Templar",
+      "zh": "黑暗圣堂武士",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Death Head",
+      "zh": "死神之首",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Defensive Drone",
+      "zh": "防御无人机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Defiler",
+      "zh": "蝎虫 / 污染者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Deimos Viking",
+      "zh": "德摩斯维京战机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Destroyer",
+      "zh": "毁灭者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Devil Dogs",
+      "zh": "恶魔犬",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Devourer",
+      "zh": "吞噬者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Diamondback",
+      "zh": "响尾蛇战车",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Disruptor",
+      "zh": "干扰者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dominion Laborer",
+      "zh": "帝国劳工",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dominion Trooper",
+      "zh": "帝国冲锋队",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dragoon",
+      "zh": "龙骑士",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Drone",
+      "zh": "工蜂",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dropship",
+      "zh": "运输船",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dusk Wings",
+      "zh": "黄昏之翼",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Egg",
+      "zh": "异虫茧",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Elite Marine",
+      "zh": "精英陆战队员",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Emperor's Shadow",
+      "zh": "元首鬼影",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Energizer",
+      "zh": "激励者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Enthralled Hydralisk",
+      "zh": "刺蛇奴仆",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Enthralled Mutalisk",
+      "zh": "异龙奴仆",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Enthralled Ultralisk",
+      "zh": "雷兽奴仆",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Enthralled Zergling",
+      "zh": "跳虫奴仆",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Eradicator",
+      "zh": "灭绝者 / 根除者",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Explosive Creeper",
+      "zh": "爆裂掘地虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Feederling",
+      "zh": "哺养虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Field Response Theta",
+      "zh": "塞塔战场急救队",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Firebat",
+      "zh": "火蝠",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Flying Locust",
+      "zh": "飞行蝗虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Glaive Wurm",
+      "zh": "刃虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Goliath",
+      "zh": "歌利亚武装机器人 / 歌利亚",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Gorgon Battlecruiser",
+      "zh": "戈尔贡级战列巡航舰",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Griffin",
+      "zh": "狮鹫号",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Griffon",
+      "zh": "狮鹫",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Guardian",
+      "zh": "守护者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "HERC",
+      "zh": "赫克",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hammer Securities",
+      "zh": "铁锤安保",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Harvesting Bot",
+      "zh": "采集机器人",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Havoc",
+      "zh": "浩劫",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Heavy Siege Tank",
+      "zh": "重型攻城坦克",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hel's Angels",
+      "zh": "地狱天使",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hellbat",
+      "zh": "恶蝠",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hellbat Ranger",
+      "zh": "恶蝠游骑兵",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hellion",
+      "zh": "恶火",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hellion Ranger",
+      "zh": "恶火游骑兵",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hercules",
+      "zh": "大力神",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "High Templar",
+      "zh": "高阶圣堂武士",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Holo Decoy",
+      "zh": "全息诱饵",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hunter",
+      "zh": "猎杀虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hunter Killer",
+      "zh": "屠猎者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hunterling",
+      "zh": "猎手龙 / 猎杀体",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hybrid Behemoth",
+      "zh": "混合体巨兽",
+      "category": "单位",
+      "subcategory": "混合体",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hybrid Destroyer",
+      "zh": "混合体毁灭者",
+      "category": "单位",
+      "subcategory": "混合体",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hybrid Dominator",
+      "zh": "混合体支配者",
+      "category": "单位",
+      "subcategory": "混合体",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hybrid Nemesis",
+      "zh": "混合体天罚者",
+      "category": "单位",
+      "subcategory": "混合体",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hybrid Reaver",
+      "zh": "混合体掠夺者",
+      "category": "单位",
+      "subcategory": "混合体",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hydralisk",
+      "zh": "刺蛇",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hyperion",
+      "zh": "休伯利安号",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Immortal",
+      "zh": "不朽者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Impaler",
+      "zh": "穿刺者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Imperial Intercessor",
+      "zh": "帝国仲裁机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Imperial Witness",
+      "zh": "帝国见证者",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested",
+      "zh": "异化作战体 / 感染体",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Banshee",
+      "zh": "被感染的女妖",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Bunker",
+      "zh": "被感染的地堡",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Civilian",
+      "zh": "被感染的平民",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Diamondback",
+      "zh": "被感染的响尾蛇战车",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Liberator",
+      "zh": "被感染的解放者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Marine",
+      "zh": "被感染的陆战队员",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested SCV",
+      "zh": "被感染的SCV",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Siege Tank",
+      "zh": "被感染的攻城坦克",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Terran",
+      "zh": "被感染的人类",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Trooper",
+      "zh": "被感染的士兵",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infestor",
+      "zh": "感染者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Instigator",
+      "zh": "鼓舞者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Interceptor",
+      "zh": "拦截机",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Interdictor",
+      "zh": "强击机",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Jackson's Revenge",
+      "zh": "杰克森的复仇号",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Kaboomer",
+      "zh": "炸弹怪",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Larva",
+      "zh": "幼虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Legionnaire",
+      "zh": "军团士兵",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Leviathan",
+      "zh": "利维坦",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Liberator",
+      "zh": "解放者",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Locust",
+      "zh": "蝗虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Loki",
+      "zh": "火神号",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Lurker",
+      "zh": "潜伏者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "MULE",
+      "zh": "矿骡",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Maar",
+      "zh": "玛尔",
+      "category": "单位",
+      "subcategory": "混合体",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mag Mines",
+      "zh": "麦格天雷",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Marauder",
+      "zh": "劫掠者",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Marauder Commando",
+      "zh": "劫掠者突击手",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Marine",
+      "zh": "陆战队员",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Baneling",
+      "zh": "机械爆虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Battlecarrier Lord",
+      "zh": "机械巢式战列空母",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Broodling",
+      "zh": "机械巢虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Corruptor",
+      "zh": "机械腐化者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Drone",
+      "zh": "机械工蜂",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Hydralisk",
+      "zh": "机械刺蛇",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Infestor",
+      "zh": "机械感染者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Larva",
+      "zh": "机械幼虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Locusceptors",
+      "zh": "机械飞蝗截击机",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Lurker",
+      "zh": "机械潜伏者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Overlord",
+      "zh": "机械王虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Overseer",
+      "zh": "机械眼虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Ravager",
+      "zh": "机械破坏者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Roach",
+      "zh": "机械蟑螂",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Ultralisk",
+      "zh": "机械雷兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Zergling",
+      "zh": "机械跳虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Medic",
+      "zh": "医疗兵",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Medivac",
+      "zh": "医疗运输机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Megalith",
+      "zh": "麦加利斯",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Militarized Transport",
+      "zh": "军用运输机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mirage",
+      "zh": "幻影战机",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Molten Salamander",
+      "zh": "熔岩巨蜥",
+      "category": "单位",
+      "subcategory": "中立",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mothership Core",
+      "zh": "母舰核心",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mutalisk",
+      "zh": "异龙",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nerazim Transport",
+      "zh": "奈拉齐姆运输船",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Night Wolf",
+      "zh": "夜狼",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Noxious",
+      "zh": "瘴毒兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nydus Worm",
+      "zh": "坑道虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Observer",
+      "zh": "侦测器",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Odin",
+      "zh": "奥丁",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Omegalisk",
+      "zh": "王兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Oracle",
+      "zh": "先知",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Outback Hunter",
+      "zh": "内陆猎手",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Overlord",
+      "zh": "王虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Overseer",
+      "zh": "眼虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Phoenix",
+      "zh": "凤凰",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Pirate Capital Ship",
+      "zh": "海盗主力舰",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Point Defense Drone",
+      "zh": "定点防御靶机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Praetor Armor",
+      "zh": "执政官护甲 / 执政官战甲",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Predator",
+      "zh": "掠食者",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Preserver",
+      "zh": "保护者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Pride of Augustgrad",
+      "zh": "奥古斯特格勒的骄傲",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Drone",
+      "zh": "原始工蜂",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Guardian",
+      "zh": "原始守护者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Host",
+      "zh": "原始宿主",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Hydralisk",
+      "zh": "原始刺蛇",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Igniter",
+      "zh": "原始点火虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Locust",
+      "zh": "远古蝗虫 / 原始蝗虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Mutalisk",
+      "zh": "原始异龙",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Roach",
+      "zh": "原始蟑螂",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Ultralisk",
+      "zh": "原始雷兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Zergling",
+      "zh": "原始跳虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Probe",
+      "zh": "探机",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Prometheus Company",
+      "zh": "普罗米修斯连队",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Propagator",
+      "zh": "同化体",
+      "category": "单位",
+      "subcategory": "混合体",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Purifier",
+      "zh": "净化号",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Purifier Warden",
+      "zh": "净化者监狱官",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Pygalisk",
+      "zh": "幼雷兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Queen",
+      "zh": "虫后 / 后虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Quillgor",
+      "zh": "钢背兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Raid Liberator",
+      "zh": "掠袭解放者",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Raptor",
+      "zh": "腾跃虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ravager",
+      "zh": "破坏者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ravasaur",
+      "zh": "暴掠龙 / 掠食龙",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Raven",
+      "zh": "铁鸦",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Raven Type-II",
+      "zh": "铁鸦II型",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Reaper",
+      "zh": "收割者",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Reaver",
+      "zh": "掠夺者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Red Adder",
+      "zh": "赤练蛇战车 [^2]",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Replicant",
+      "zh": "克隆机 / 复制机",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Roach",
+      "zh": "蟑螂",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Roachling",
+      "zh": "小蟑螂",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "SCV",
+      "zh": "SCV",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sabotage Drone",
+      "zh": "破坏无人机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Science Vessel",
+      "zh": "科学船",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Scourge",
+      "zh": "爆蚊",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Scout",
+      "zh": "侦察机",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sentinel",
+      "zh": "警戒者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sentry",
+      "zh": "机械哨兵",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sentry Bot",
+      "zh": "警戒机器人",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Shadow Guard",
+      "zh": "暗影卫队",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Shield of Aiur",
+      "zh": "艾尔之盾",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Shock Division",
+      "zh": "冲击分队",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Shredder",
+      "zh": "粉碎者",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Shuttle",
+      "zh": "穿梭机",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Siege Breakers",
+      "zh": "突围者",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Siege Tank",
+      "zh": "攻城坦克",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sky Fury",
+      "zh": "天空之怒",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Skylord",
+      "zh": "天霸",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Slayer",
+      "zh": "杀戮者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Solarite Dragoon",
+      "zh": "太阳能龙骑士",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sons of Korhal",
+      "zh": "克哈之子",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sovereign Battlecruiser",
+      "zh": "至尊战列巡航舰",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spartan Company",
+      "zh": "斯巴达连队",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spear of Adun",
+      "zh": "亚顿之矛",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spec Ops Ghost",
+      "zh": "特战幽灵",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Special Ops Dropship",
+      "zh": "特别行动运输船",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spectre",
+      "zh": "幽魂",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "high",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spider Mine",
+      "zh": "蜘蛛雷",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Splitter",
+      "zh": "分裂虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spotter",
+      "zh": "大头怪 / 监控体",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Stalker",
+      "zh": "追猎者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Stank",
+      "zh": "猛犸兽 / 腐尸怪",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Star Relic",
+      "zh": "星际圣物",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Stone Zealot",
+      "zh": "石像狂热者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Strike Goliath",
+      "zh": "强击歌利亚",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Supplicant",
+      "zh": "死徒",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Swarm Guardian",
+      "zh": "虫群守护者",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Swarm Host",
+      "zh": "虫群宿主",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Swarm Queen",
+      "zh": "虫后",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Swarmling",
+      "zh": "裂变虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Symbiote",
+      "zh": "共生体",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tac Fighter",
+      "zh": "战术机",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tauren Space Marine",
+      "zh": "牛头人太空陆战队员",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tempest",
+      "zh": "风暴战舰",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Terra-Tron",
+      "zh": "泰伦坦",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Theia Raven",
+      "zh": "忒伊亚铁鸦",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Thor",
+      "zh": "雷神",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Titanic Warp Prism",
+      "zh": "泰坦折跃棱镜",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Torrasque",
+      "zh": "暴龙兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Trooper",
+      "zh": "士兵",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Twilight Archon",
+      "zh": "暮光执政官",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tyrannozor",
+      "zh": "恐惧虫 / 暴龙兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "UED Genetic Engineer",
+      "zh": "UED基因工程师",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "UED PyroTechnic Engineer",
+      "zh": "UED烟火工程师",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "UED Security Guard",
+      "zh": "UED安保守卫",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ultralisk",
+      "zh": "雷兽",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Unbound Fanatic",
+      "zh": "无拘狂热者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Valkyrie",
+      "zh": "瓦格雷战机 / 女武神",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Valor of Vardona",
+      "zh": "瓦多纳勇气号",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Vanguard",
+      "zh": "先锋",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Viking",
+      "zh": "维京战机 / 维京",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Vile",
+      "zh": "秽型虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Viper",
+      "zh": "飞蛇",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Void Ray",
+      "zh": "虚空辉光舰",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Void Reanimator",
+      "zh": "虚空重生者",
+      "category": "单位",
+      "subcategory": "混合体",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Void Seeker",
+      "zh": "虚空寻觅者号",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Void Templar",
+      "zh": "虚空圣堂武士",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Volatile Infested",
+      "zh": "易爆感染体",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Vulture",
+      "zh": "秃鹫",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "War Pigs",
+      "zh": "战地豪猪",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "War Prism",
+      "zh": "战争棱镜",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Warden Support Alpha",
+      "zh": "监狱官僚机阿尔法",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Warden Support Omega",
+      "zh": "监狱官僚机欧米茄",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Warhound",
+      "zh": "战狼",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Warp Prism",
+      "zh": "折跃棱镜",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Widow Mine",
+      "zh": "寡妇雷",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Winged Nightmare",
+      "zh": "带翼梦魇",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Wraith",
+      "zh": "怨灵战机 / 怨灵",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Wrathwalker",
+      "zh": "天罚行者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xanthos",
+      "zh": "赞托斯",
+      "category": "单位",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xel'Naga Abrogator",
+      "zh": "萨尔纳加禁绝者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xel'Naga Ambusher",
+      "zh": "萨尔纳加伏击者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xel'Naga Enforcer",
+      "zh": "萨尔纳加执行者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xel'Naga Precursor",
+      "zh": "萨尔纳加先驱者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xel'Naga Shieldguard",
+      "zh": "萨尔纳加光盾卫士",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xel'Naga Void Array",
+      "zh": "萨尔纳加虚空阵列船",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xel'Naga Watcher",
+      "zh": "萨尔纳加观察者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Zealot",
+      "zh": "狂热者",
+      "category": "单位",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Zerusian Needle",
+      "zh": "泽鲁斯刺脊虫",
+      "category": "单位",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "AAI",
+      "zh": "AAI",
+      "category": "品牌/型号",
+      "risk": "low",
+      "note": "Abaddon Arms Industries? 保留",
+      "priority": "wiki"
+    },
+    {
+      "en": "KLF",
+      "zh": "KLF",
+      "category": "品牌/型号",
+      "risk": "low",
+      "note": "Keep Loose & Free? 缩写, 保留",
+      "priority": "wiki"
+    },
+    {
+      "en": "TPF",
+      "zh": "TPF",
+      "category": "品牌/型号",
+      "risk": "low",
+      "note": "Tarsonis Police Force, 保留",
+      "priority": "wiki"
+    },
+    {
+      "en": "UNN",
+      "zh": "UNN",
+      "category": "品牌/型号",
+      "risk": "low",
+      "note": "United News Network, 保留英文",
+      "priority": "wiki"
+    },
+    {
+      "en": "Atticus Minor",
+      "zh": "阿提卡斯·迈纳",
+      "category": "地名",
+      "risk": "low",
+      "note": "Atticus Minor 炼油厂",
+      "priority": "wiki"
+    },
+    {
+      "en": "Gehenna",
+      "zh": "盖赫纳",
+      "category": "地名",
+      "risk": "low",
+      "note": "行星名",
+      "priority": "wiki"
+    },
+    {
+      "en": "Killiany",
+      "zh": "基利安",
+      "category": "地名",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sector 9",
+      "zh": "第九区",
+      "category": "地名",
+      "risk": "low",
+      "note": "组织单位代号",
+      "priority": "wiki"
+    },
+    {
+      "en": "Academy",
+      "zh": "学院",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ancient Assimilator",
+      "zh": "古代吸纳舱",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ancient Nexus",
+      "zh": "古代星灵枢纽",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Arbiter Tribunal",
+      "zh": "仲裁者法庭",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Armory",
+      "zh": "军械库",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Artifact Reserve",
+      "zh": "神器储放台",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ascendant Archives",
+      "zh": "晋升者文献馆",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Assimilator",
+      "zh": "吸纳舱",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Auto-Turret",
+      "zh": "自动机炮",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Automated Extractor",
+      "zh": "自动萃取房",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Automated Refinery",
+      "zh": "自动化精炼厂",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Baneling Nest",
+      "zh": "爆虫巢穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Barracks",
+      "zh": "兵营",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Bile Launcher",
+      "zh": "胆汁喷射体",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Blaster Billy",
+      "zh": "爆弹比利",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Bunker",
+      "zh": "地堡",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Citadel of Adun",
+      "zh": "亚顿堡垒",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "ComSat Station",
+      "zh": "卫星站",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Command Center",
+      "zh": "指挥中心",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Constructs Facility",
+      "zh": "构造体研究所",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Control Tower",
+      "zh": "控制塔",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Core Forge",
+      "zh": "芯核锻炉",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Covert Ops",
+      "zh": "特战部",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Creep Colony",
+      "zh": "菌毯集群",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Creep Tumor",
+      "zh": "菌毯肿瘤",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Cybernetics Core",
+      "zh": "控制芯核",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dakrun's Den",
+      "zh": "达克伦的巢穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dark Pylon",
+      "zh": "黑暗水晶塔",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dark Shrine",
+      "zh": "黑暗圣坛",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Death Council",
+      "zh": "死亡议会",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Defiler Mound",
+      "zh": "蝎虫窝",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dehaka's Den",
+      "zh": "德哈卡的巢穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Devastation Turret",
+      "zh": "毁灭炮塔",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dominion Starport",
+      "zh": "帝国星港",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Drakken Laser Drill",
+      "zh": "德拉肯激光钻机",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Drakken Pulse Cannon",
+      "zh": "德拉肯脉冲炮",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Earthsplitter Ordnance",
+      "zh": "大地碎裂炮",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Engineering Bay",
+      "zh": "工程站",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Enlistment Center",
+      "zh": "征兵中心",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Evolution Chamber",
+      "zh": "进化腔",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Extractor",
+      "zh": "萃取房",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Factory",
+      "zh": "重工厂",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Fixers' Safehouse",
+      "zh": "鬼手安全屋",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Flaming Betty",
+      "zh": "热辣贝蒂 / 烈火贝蒂",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Fleet Beacon",
+      "zh": "舰队航标",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Forge",
+      "zh": "锻炉",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Fusion Core",
+      "zh": "聚变芯体",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Gary's Room",
+      "zh": "盖瑞的房间",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Gas Turret",
+      "zh": "毒气炮台",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Gateway",
+      "zh": "传送门",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ghost Academy",
+      "zh": "幽灵军校",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Glevig's Den",
+      "zh": "格里维格的巢穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Greater Primal Wurm",
+      "zh": "大型原始蠕虫",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Greater Spire",
+      "zh": "巨型尖塔",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Gun Tower",
+      "zh": "机枪塔",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Gunslinger's Hideout",
+      "zh": "枪王藏身处",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hatchery",
+      "zh": "孵化场",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hive",
+      "zh": "主巢",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hive Mind Emulator",
+      "zh": "主巢心智模拟器",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hydralisk Den",
+      "zh": "刺蛇巢",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Impaler Colony",
+      "zh": "穿刺者集群",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Impaler Den",
+      "zh": "穿刺者巢穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infestation Pit",
+      "zh": "感染深渊",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Armory",
+      "zh": "被感染的军械库",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Barracks",
+      "zh": "被感染的兵营",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Colonist Compound",
+      "zh": "被感染的移民营",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Command Center",
+      "zh": "被感染的指挥中心",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Engineering Bay",
+      "zh": "被感染的工程站",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Factory",
+      "zh": "被感染的重工厂",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Missile Turret",
+      "zh": "被感染的导弹塔",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Refinery",
+      "zh": "被感染的精炼厂",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Starport",
+      "zh": "被感染的星港",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Infested Tech Lab",
+      "zh": "被感染的科技实验室",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Joeyray's Bar",
+      "zh": "乔伊·雷酒吧",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Khaydarin Monolith",
+      "zh": "凯达琳巨石",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Lair",
+      "zh": "虫穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Lurker Den",
+      "zh": "潜伏者巢穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Machine Shop",
+      "zh": "机械车间",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Baneling Nest",
+      "zh": "机械爆虫巢穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Evolution Chamber",
+      "zh": "机械进化腔",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Extractor",
+      "zh": "机械萃取房",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Greater Spire",
+      "zh": "机械巨型尖塔",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Hatchery",
+      "zh": "机械孵化场",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Hive",
+      "zh": "机械主巢",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Hydralisk Den",
+      "zh": "机械刺蛇巢",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Infestation Pit",
+      "zh": "机械感染深渊",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Lair",
+      "zh": "机械虫穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Lurker Den",
+      "zh": "机械潜伏者巢穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Spawning Pool",
+      "zh": "机械分裂池",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Spine Crawler",
+      "zh": "机械脊针爬虫",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Spire",
+      "zh": "机械尖塔",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Spore Crawler",
+      "zh": "机械孢子爬虫",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mecha Ultralisk Cavern",
+      "zh": "机械雷兽窟",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Medivac Platform",
+      "zh": "医疗运输机平台",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Merc Compound",
+      "zh": "佣兵营地",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Merc Starport",
+      "zh": "佣兵星港",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mercenary Space Station",
+      "zh": "佣兵空间站",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Missile Turret",
+      "zh": "导弹塔",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Monolith",
+      "zh": "莫诺里斯 / 巨石",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Murvar's Den",
+      "zh": "穆尔瓦的巢穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Muscle Armory",
+      "zh": "猛男军械库",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nexus",
+      "zh": "星灵枢纽",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nuclear Silo",
+      "zh": "核弹发射井 / 聚变打击发射井",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Null Circuit",
+      "zh": "虚化回路",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nydus Canal",
+      "zh": "坑道虫通道",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nydus Network",
+      "zh": "虫道网络",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Obelisk",
+      "zh": "方尖碑",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Observatory",
+      "zh": "观测台",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Omega Network",
+      "zh": "虫道网络欧米茄",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Orbital Assimilator",
+      "zh": "轨道吸纳舱",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Orbital Command",
+      "zh": "轨道控制基地",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ordnance Tower",
+      "zh": "天条之塔",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Perdition Turret",
+      "zh": "末日炮塔",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Photon Cannon",
+      "zh": "光子炮台",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Physics Lab",
+      "zh": "物理实验室",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Planetary Fortress",
+      "zh": "行星要塞",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Hive",
+      "zh": "原始主巢",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Warden",
+      "zh": "原始战争之巢",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Primal Wurm",
+      "zh": "原始蠕虫",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Psi Destroyer",
+      "zh": "灵能粉碎器",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Psi Disrupter",
+      "zh": "灵能干扰器",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Purifier Conclave",
+      "zh": "净化者议会",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Purifier Data Core",
+      "zh": "净化者数据核心",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Pylon",
+      "zh": "水晶塔",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Pylon Containment Unit",
+      "zh": "水晶塔压制单元",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Queen's Nest",
+      "zh": "后虫之巢",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Railgun Turret",
+      "zh": "磁轨炮塔",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Reactor",
+      "zh": "反应堆",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Refinery",
+      "zh": "精炼厂",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Roach Warren",
+      "zh": "蟑螂温室",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Robotics Bay",
+      "zh": "机械研究所",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Robotics Facility",
+      "zh": "机械台",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Robotics Support Bay",
+      "zh": "机械支持研究所",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Robotics Warp Facility",
+      "zh": "机械折跃台",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Royal Academy",
+      "zh": "皇家军校",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Science Facility",
+      "zh": "科学站",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sensor Tower",
+      "zh": "感应塔",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Shadow Ops",
+      "zh": "幽灵军校 [^3]",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Shield Battery",
+      "zh": "护盾充能器",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Shield Projector",
+      "zh": "护盾投射器",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Shrike Turret",
+      "zh": "尖牙炮塔",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Solar Forge",
+      "zh": "太阳锻炉",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spawning Pool",
+      "zh": "分裂池",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spine Crawler",
+      "zh": "脊针爬虫",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spinning Dizzy",
+      "zh": "转转小子",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spire",
+      "zh": "尖塔",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spore Cannon",
+      "zh": "孢子炮台",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spore Colony",
+      "zh": "孢子集群",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Spore Crawler",
+      "zh": "孢子爬虫",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Star Warp Gate",
+      "zh": "折跃星门",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Stargate",
+      "zh": "星门",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Starport",
+      "zh": "星港",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Stasis Ward",
+      "zh": "静滞结界",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Stetellite",
+      "zh": "艾星",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Strike Fighter Platform",
+      "zh": "攻击战斗机平台",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sunken Colony",
+      "zh": "潜隐集群",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Supply Bunker",
+      "zh": "补给地堡",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Supply Depot",
+      "zh": "补给站",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tech Lab",
+      "zh": "科技实验室",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tech Reactor",
+      "zh": "科技反应堆",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Templar Archives",
+      "zh": "圣堂武士文献馆",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tesseract Cannon",
+      "zh": "超维空间炮",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tesseract Monolith",
+      "zh": "超维空间巨石",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Toxic Nest",
+      "zh": "剧毒巢穴",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Twilight Council",
+      "zh": "光影议会",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ultralisk Cavern",
+      "zh": "雷兽窟",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Virophage",
+      "zh": "噬毒体",
+      "category": "建筑",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Void Shrine",
+      "zh": "虚空圣坛",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Warhound Turret",
+      "zh": "战狼炮台",
+      "category": "建筑",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Warp Gate",
+      "zh": "折跃门",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xel'Naga Tower",
+      "zh": "萨尔纳加瞭望塔",
+      "category": "建筑",
+      "subcategory": "萨尔纳加",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xel'naga Passageway",
+      "zh": "萨尔纳加时空通道",
+      "category": "建筑",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Aldera",
+      "zh": "奥尔德拉",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Aldrion",
+      "zh": "奥尔德里恩",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Anselm",
+      "zh": "安塞尔姆",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Augustgrad",
+      "zh": "奥古斯塔德",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Brody",
+      "zh": "布罗迪",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Broken Horn",
+      "zh": "破碎角",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Captain Gentry",
+      "zh": "甘特利上尉",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Cask",
+      "zh": "卡斯克",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Chau Sara",
+      "zh": "周·萨拉",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Darsiris",
+      "zh": "达西瑞斯",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Defenders",
+      "zh": "人类捍卫者",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "General Davis",
+      "zh": "戴维斯将军",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ghost Program",
+      "zh": "幽灵计划",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hendrix",
+      "zh": "亨德里克斯",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Juras",
+      "zh": "朱拉斯",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Lieutenant Rumm",
+      "zh": "鲁姆中尉",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Madrid",
+      "zh": "马德里",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Martul",
+      "zh": "马图尔",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Moratun",
+      "zh": "莫拉顿",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Morians",
+      "zh": "莫里亚斯",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Pandora",
+      "zh": "潘多拉",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Periwag / PERIWAG",
+      "zh": "佩里瓦格",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Private Ayers",
+      "zh": "艾尔斯下士",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sage",
+      "zh": "赛奇",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Stone",
+      "zh": "斯通",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Therun",
+      "zh": "塞伦",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Thuras",
+      "zh": "苏拉斯",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "UnQueen",
+      "zh": "幽后",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Walden",
+      "zh": "瓦尔登",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Wynne",
+      "zh": "温恩",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Protoss",
+      "zh": "星灵",
+      "category": "种族与物种",
+      "subcategory": "",
+      "risk": "high",
+      "priority": "wiki"
+    },
+    {
+      "en": "Terran",
+      "zh": "泰伦人",
+      "category": "种族与物种",
+      "subcategory": "",
+      "risk": "high",
+      "priority": "wiki"
+    },
+    {
+      "en": "Xel'naga",
+      "zh": "萨尔纳加 / 萨尔那加",
+      "category": "种族与物种",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Zerg",
+      "zh": "异虫",
+      "category": "种族与物种",
+      "subcategory": "",
+      "risk": "high",
+      "priority": "wiki"
+    },
+    {
+      "en": "Kal-Bryant",
+      "zh": "卡尔-布莱恩特",
+      "category": "组织/计划",
+      "risk": "low",
+      "note": "Kal-Bryant 计划",
+      "priority": "wiki"
+    },
+    {
+      "en": "**Adun Toridas**",
+      "zh": "**Adun Toridas**",
+      "zh_annotation": "愿阿顿庇护你 (奈拉齐姆部族专属祝福语)",
+      "category": "致敬语",
+      "subcategory": "Protoss",
+      "risk": "low",
+      "priority": "wiki",
+      "keep_english": true
+    },
+    {
+      "en": "**En Aru'din Raszagal**",
+      "zh": "**En Aru'din Raszagal**",
+      "zh_annotation": "缅怀拉斯扎加尔 (黑暗圣堂武士专用句式)",
+      "category": "致敬语",
+      "subcategory": "Protoss",
+      "risk": "low",
+      "priority": "wiki",
+      "keep_english": true
+    },
+    {
+      "en": "**En Taro Adun**",
+      "zh": "**En Taro Adun**",
+      "zh_annotation": "赞美阿顿 / 为了阿顿的荣耀 (卡莱最常用问候语)",
+      "category": "致敬语",
+      "subcategory": "Protoss",
+      "risk": "low",
+      "priority": "wiki",
+      "keep_english": true
+    },
+    {
+      "en": "**En Taro Artanis**",
+      "zh": "**En Taro Artanis**",
+      "zh_annotation": "赞美阿塔尼斯 (统一星灵各部族、光复艾尔的大主教)",
+      "category": "致敬语",
+      "subcategory": "Protoss",
+      "risk": "low",
+      "priority": "wiki",
+      "keep_english": true
+    },
+    {
+      "en": "**En Taro Tassadar**",
+      "zh": "**En Taro Tassadar**",
+      "zh_annotation": "赞美塔萨达尔 (SC1 与主宰同归于尽的执行官)",
+      "category": "致敬语",
+      "subcategory": "Protoss",
+      "risk": "low",
+      "priority": "wiki",
+      "keep_english": true
+    },
+    {
+      "en": "Aal Cistler",
+      "zh": "亚尔·西斯特勒",
+      "category": "角色",
+      "risk": "low",
+      "note": "Aal 父名, Cistler 姓",
+      "priority": "wiki"
+    },
+    {
+      "en": "Abathur",
+      "zh": "阿巴瑟",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Adun",
+      "zh": "亚顿",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Alarak",
+      "zh": "阿拉纳克",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Aldaris",
+      "zh": "阿达利斯",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Alexei Stukov",
+      "zh": "阿列克谢·斯托科夫",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Amon",
+      "zh": "埃蒙",
+      "category": "角色",
+      "subcategory": "萨尔纳加",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Arcturus Mengsk",
+      "zh": "阿克图洛斯·蒙斯克",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ariel Hanson",
+      "zh": "艾蕊尔·汉森",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Artanis",
+      "zh": "阿塔尼斯",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Aurana",
+      "zh": "奥罗娜",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Bennett",
+      "zh": "贝内特",
+      "category": "角色",
+      "risk": "low",
+      "note": "Spectres 角色",
+      "priority": "wiki"
+    },
+    {
+      "en": "Bick",
+      "zh": "比克",
+      "category": "角色",
+      "risk": "low",
+      "note": "Colonel Bick, 50% 译稿若有则对齐",
+      "priority": "wiki"
+    },
+    {
+      "en": "Brakk",
+      "zh": "巴拉克",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Carolina Davis",
+      "zh": "卡罗琳娜·戴维斯",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Cliff",
+      "zh": "克里夫",
+      "category": "角色",
+      "risk": "medium",
+      "note": "Cliff Nadaner 名字",
+      "priority": "wiki"
+    },
+    {
+      "en": "Cliff Nadaner",
+      "zh": "克里夫·纳丹尔",
+      "category": "角色",
+      "risk": "medium",
+      "priority": "wiki"
+    },
+    {
+      "en": "Clolarion",
+      "zh": "科罗拉里昂",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Daggoth",
+      "zh": "达格斯",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dakrun",
+      "zh": "达克伦",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dehaka",
+      "zh": "德哈卡",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dylanna",
+      "zh": "戴亚娜娜",
+      "category": "角色",
+      "risk": "low",
+      "note": "Spectres 队友",
+      "priority": "wiki"
+    },
+    {
+      "en": "Edmund Duke",
+      "zh": "埃德蒙·杜克",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Egon Stetmann",
+      "zh": "艾贡·斯台特曼",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Emil Narud",
+      "zh": "埃米尔·纳鲁德",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Fagin",
+      "zh": "费金",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Fenix",
+      "zh": "菲尼克斯",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Fonseca",
+      "zh": "丰塞卡",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Gabriel Tosh",
+      "zh": "加布里埃尔·托什",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Gerard DuGalle",
+      "zh": "杰拉德·杜格尔",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Glevig",
+      "zh": "格里维格",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Graven Hill",
+      "zh": "格莱文·希尔",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hauler",
+      "zh": "豪勒",
+      "category": "角色",
+      "risk": "low",
+      "note": "Spectres 角色",
+      "priority": "wiki"
+    },
+    {
+      "en": "Hieronymous Jones",
+      "zh": "希耶罗尼穆斯·琼斯",
+      "category": "角色",
+      "risk": "medium",
+      "priority": "wiki"
+    },
+    {
+      "en": "Horace Warfield",
+      "zh": "霍瑞斯·沃菲尔德",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Izsha",
+      "zh": "伊兹莎",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Jewel",
+      "zh": "朱厄尔",
+      "category": "角色",
+      "risk": "low",
+      "note": "Pyke Lane 毒贩",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ji'nara",
+      "zh": "吉娜拉",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Jim Raynor",
+      "zh": "吉姆·雷诺",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Jonesy",
+      "zh": "琼西",
+      "category": "角色",
+      "risk": "low",
+      "note": "Hieronymous 昵称",
+      "priority": "wiki"
+    },
+    {
+      "en": "Kaldalis",
+      "zh": "卡尔达利斯",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Karass",
+      "zh": "卡拉斯",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Kate Lockwell",
+      "zh": "凯特·洛克维尔",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Kerrigan",
+      "zh": "凯瑞甘",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Kilysa",
+      "zh": "克里莎",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Kraith",
+      "zh": "凯雷斯",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Larry",
+      "zh": "拉里",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Lasarra",
+      "zh": "拉瑟拉",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Lyrak",
+      "zh": "莱拉克",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ma'lash",
+      "zh": "马拉什",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mal",
+      "zh": "马尔",
+      "category": "角色",
+      "risk": "low",
+      "note": "Malcolm 昵称",
+      "priority": "wiki"
+    },
+    {
+      "en": "Malcolm Kelerchian",
+      "zh": "马尔科姆·凯勒奇安",
+      "category": "角色",
+      "risk": "medium",
+      "priority": "wiki"
+    },
+    {
+      "en": "Matt Horner",
+      "zh": "马特·霍纳",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mick Stanislawski",
+      "zh": "米克·斯坦尼斯拉夫斯基",
+      "category": "角色",
+      "risk": "medium",
+      "priority": "wiki"
+    },
+    {
+      "en": "Milo Kachinsky",
+      "zh": "米罗·卡琴斯基",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mira Han",
+      "zh": "米拉·汉",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mohandar",
+      "zh": "莫汉达尔",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Mojo",
+      "zh": "摩约",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Murvar",
+      "zh": "穆尔瓦",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nadaner",
+      "zh": "纳丹尔",
+      "category": "角色",
+      "risk": "medium",
+      "note": "Cliff Nadaner 姓",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nafash",
+      "zh": "纳法许",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Naktul",
+      "zh": "纳可图尔",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Narud",
+      "zh": "纳鲁德",
+      "category": "角色",
+      "subcategory": "萨尔纳加",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ndoci",
+      "zh": "恩多西",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Niadra",
+      "zh": "尼雅德拉",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nova Terra",
+      "zh": "诺娃·泰拉",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nyon",
+      "zh": "尼翁",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Orlan",
+      "zh": "奥尔兰",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ouros",
+      "zh": "奥鲁斯",
+      "category": "角色",
+      "subcategory": "萨尔纳加",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Overmind",
+      "zh": "主宰",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Probius",
+      "zh": "普罗比斯",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Reigel",
+      "zh": "雷格尔",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Rohana",
+      "zh": "洛哈娜",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Rokarr",
+      "zh": "洛卡尔",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Rory Swann",
+      "zh": "罗瑞·斯旺",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ryloth",
+      "zh": "瑞罗斯",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Samir Duran",
+      "zh": "萨米尔·杜兰",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Sarah Kerrigan",
+      "zh": "莎拉·凯瑞甘",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Serdath",
+      "zh": "塞达斯",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Slivan",
+      "zh": "斯利凡",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Taldarin",
+      "zh": "塔尔达林",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Talis",
+      "zh": "塔里斯",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tassadar",
+      "zh": "塔萨达尔",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Telbrus",
+      "zh": "特布鲁斯",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Two-Bit",
+      "zh": "二把刀",
+      "category": "角色",
+      "risk": "medium",
+      "note": "Mick Stanislawski 昵称",
+      "priority": "wiki"
+    },
+    {
+      "en": "Tychus Findlay",
+      "zh": "泰凯斯·芬利",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ulreazj",
+      "zh": "尤雷扎",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Urun",
+      "zh": "尤尔兰",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Valerian Mengsk",
+      "zh": "瓦伦里安·蒙斯克",
+      "category": "角色",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Vorazun",
+      "zh": "沃拉尊",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Yagdra",
+      "zh": "亚格卓拉",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Zagara",
+      "zh": "扎加拉",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Zasz",
+      "zh": "扎兹",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Zeratul",
+      "zh": "泽拉图",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Zoraya",
+      "zh": "佐拉亚",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Zurvan",
+      "zh": "祖尔温",
+      "category": "角色",
+      "subcategory": "异虫",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "UED",
+      "zh": "地球联邦远征军",
+      "category": "阵营/组织",
+      "risk": "low",
+      "note": "United Earth Directorate, 维基标准",
+      "priority": "wiki"
+    },
+    {
+      "en": "Wolverines",
+      "zh": "狼獾",
+      "category": "阵营/组织",
+      "risk": "low",
+      "note": "E Company 别名",
+      "priority": "wiki"
+    },
+    {
+      "en": "Aiur",
+      "zh": "艾尔",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Alpha Squadron",
+      "zh": "阿尔法中队",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Amon's Armada",
+      "zh": "埃蒙的舰队",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Confederate Resistance Forces",
+      "zh": "联邦反抗军",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Daelaam",
+      "zh": "达拉姆",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Death Fleet",
+      "zh": "死亡舰队",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Defenders of Man",
+      "zh": "人类保卫者",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Delta Squadron",
+      "zh": "德尔塔中队",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dominion Fleet",
+      "zh": "帝国舰队",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Dominion Marine Corps",
+      "zh": "帝国海军陆战队",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Elite Guard",
+      "zh": "精英卫队",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Fleet of the Executor",
+      "zh": "执行官舰队",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Fleet of the Matriarch",
+      "zh": "女族长舰队",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Golden Armada",
+      "zh": "黄金舰队",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Great Fleet",
+      "zh": "大舰队",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Ihan-rii",
+      "zh": "伊罕利",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Kel-Morian Combine",
+      "zh": "凯莫瑞安联合体",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Khalai",
+      "zh": "卡莱",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Knights of Tyrador",
+      "zh": "泰拉多尔骑士团",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Koprulu Expeditionary Force",
+      "zh": "科普卢远征军",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Moebius Corps",
+      "zh": "莫比斯军团",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Moebius Foundation",
+      "zh": "莫比斯基金会",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nerazim",
+      "zh": "奈拉齐姆",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Nova Squadron",
+      "zh": "诺娃中队",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Omega Squadron",
+      "zh": "欧米茄中队",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Protoss Empire",
+      "zh": "星灵帝国",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Purifier",
+      "zh": "净化者",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Raynor's Rangers",
+      "zh": "雷诺的游骑兵",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Terran Confederacy",
+      "zh": "泰伦联邦",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Terran Dominion",
+      "zh": "泰伦帝国",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Umojan Protectorate",
+      "zh": "尤摩扬护国军",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "United Earth Directorate",
+      "zh": "地球联合理事会",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "United Powers League",
+      "zh": "联合政权联盟",
+      "category": "阵营与组织",
+      "subcategory": "人类",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Vanguard of Aiur",
+      "zh": "艾尔先锋",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "wiki"
+    },
+    {
+      "en": "Braxis",
+      "zh": "布莱克西斯",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Emily",
+      "zh": "艾蜜莉",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Endion",
+      "zh": "恩底昂",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Gantrithor",
+      "zh": "甘特里索号",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Khala",
+      "zh": "卡拉",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Khalani",
+      "zh": "卡拉尼",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Nerath",
+      "zh": "内拉斯",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Shel'na Kryhas",
+      "zh": "夏尔纳·克瑞哈斯",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Ulnar",
+      "zh": "乌尔纳",
+      "category": "zhTW 官方",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Carrier",
+      "zh": "航母",
+      "category": "作品",
+      "subcategory": "小说",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Lantharis",
+      "zh": "兰萨瑞斯",
+      "category": "新译专用",
+      "subcategory": "",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Karax",
+      "zh": "凯拉克斯",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Raszagal",
+      "zh": "拉莎加尔",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Selendis",
+      "zh": "赛兰迪丝",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Talandar",
+      "zh": "塔兰达尔",
+      "category": "角色",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "zhTW"
+    },
+    {
+      "en": "Tal'darim",
+      "zh": "塔达林",
+      "category": "阵营与组织",
+      "subcategory": "星灵",
+      "risk": "low",
+      "priority": "zhTW"
+    }
+  ],
+  "count": 680,
+  "zhTW_pairs_doc": "audits/zhTW_terminology_pairs.md"
+}
